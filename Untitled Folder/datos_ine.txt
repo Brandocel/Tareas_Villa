@@ -1,0 +1,5 @@
+nombre: wert
+apellido: erty
+año: werty
+domicilio: werty
+curp: wert
